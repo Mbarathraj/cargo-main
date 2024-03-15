@@ -27,16 +27,24 @@ function CustomerHome() {
         </Col>
       </Row>
       <section>
-          <div className="row text-center mt-4 d-flex flex-column align-items-center">
-            <h1>Grow Your Business. <span>We will</span> </h1>
-            <h2><span>take care</span> all your logistics</h2>
-            <div className="col-10">
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit modi magnam sed excepturi explicabo obcaecati officiis cum veritatis nisi quae?</p>
-            </div>
-            <div className="col-10">
-              <img src="" alt="C:\cargo-main\src\assests\img\AdobeStock_619151417_Preview.jpeg" />
-            </div>
+        <div className="row text-center mt-4 d-flex flex-column align-items-center">
+          <h1>
+            Grow Your Business. <span>We will</span>{" "}
+          </h1>
+          <h2>
+            <span>take care</span> all your logistics
+          </h2>
+          <div className="col-10">
+            <p>
+              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Reprehenderit modi magnam sed excepturi explicabo obcaecati
+              officiis cum veritatis nisi quae?
+            </p>
           </div>
+          <div className="col-10">
+            <img src="" alt=""/>
+          </div>
+        </div>
       </section>
       {/* <section>
 
